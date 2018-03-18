@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\Auto_irrigation.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\try11.ewp</path>
+  </project>
+  <batchBuild>
+    <batchDefinition>
+      <name>Autoirrig</name>
+      <member>
+        <project>Auto_irrigation</project>
+        <configuration>Debug</configuration>
+      </member>
+      <member>
+        <project>Auto_irrigation</project>
+        <configuration>Release</configuration>
+      </member>
+    </batchDefinition>
+  </batchBuild>
+</workspace>
+
+
